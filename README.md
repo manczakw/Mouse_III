@@ -25,8 +25,9 @@ This robot was made as an final project for C++ object oriented programming cour
 
 ## Technologies
 * [Arduino IDE](https://www.arduino.cc/en/Main/Software)
-*  Bluetooth 2.0
+* Bluetooth 2.0
 * Visual Studio 2015
+* C++ .Net CLR
 ![Example screenshot](https://i.imgur.com/XuGlbIz.png)
 ![Example screenshot](https://i.imgur.com/dKV2Z1v.png) 
 ## Parts needed
